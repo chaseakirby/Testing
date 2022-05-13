@@ -1,3 +1,5 @@
 name: Best Template Ever
 description: This probably will not work 
-markdown: kramdown
+
+body:
+Thing here
